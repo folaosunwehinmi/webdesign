@@ -42,3 +42,82 @@
     <script src="script.js"></script>
 </body>
 </html>![dubai](https://github.com/folaosunwehinmi/webdesign/assets/153459721/4413504a-5089-411f-86e7-31005a7a075f)
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px 0;
+}
+
+h1, h2 {
+    color: #0077cc;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+form {
+    display: grid;
+    gap: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color:
+    body {
+       
+}
+    
+    @media only screen and (max-width: 768px) {
+        
+    }
+    
+    @media only screen and (max-width: 480px) {
+    
+    }
+    
